@@ -1,0 +1,59 @@
+//header -->
+//------------------------------------------------------------------------------------------------------------------- -->
+
+//boven header
+//------------------------------------------------------------------------------------------------------------------- -->
+.header-boven{}
+
+.header-boven-contact{}
+.header-boven-contact-wrapper1{
+}
+.header-boven-contact-logo{
+  width: 50%;
+}
+.header-boven-contact-wrapper2{
+  padding:7% 0 0 0;
+  position: relative;
+}
+.nummer-icon{
+  width: 5%;
+  position: absolute;
+  left:0%;
+  top:93%;
+}
+.email-icon{
+
+  width:5%;
+  position: absolute;
+  left:40%;
+  top:93%;
+
+}
+.header-boven-contact-nummer{
+  text-decoration: none;
+  position: absolute;
+  left: 7%;
+
+}
+.header-boven-contact-email{
+  text-decoration: none;
+  position: absolute;
+  left: 47%;
+}
+//------------------------------------------------------------------------------------------------------------- -->
+// einde boven header
+
+//midden header
+//------------------------------------------------------------------------------------------------------------- -->
+  // zie scss : _navigation
+//------------------------------------------------------------------------------------------------------------- -->
+//einde midden header
+
+//onderkant header 
+//------------------------------------------------------------------------------------------------------------- -->
+.header-onderkant{
+  padding:0% 0 0 0 ;
+  height: 256px !important;
+}
+//------------------------------------------------------------------------------------------------------------- -->
+//einde onderkant header
